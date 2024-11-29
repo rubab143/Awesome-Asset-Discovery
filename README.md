@@ -31,7 +31,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [rustbuster](https://github.com/phra/rustbuster): Files, directories and vhost buster written in Rust.
 
 ## [↑](#contents)IP Address Discovery
-
+- [Domain-to-IP Lookup Tool](https://gsupertools.com/domain-to-ip)
 - [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool  
 - [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter  
 - [Massdns](https://github.com/blechschmidt/massdns): A DNS resolver utility for bulk lookups  
